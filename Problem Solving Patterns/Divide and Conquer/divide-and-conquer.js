@@ -1,6 +1,5 @@
 function search(array, val) {
     let min = 0;
-
     let max = array.length - 1;
 
     while (min <= max) {
